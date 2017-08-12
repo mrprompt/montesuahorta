@@ -8,8 +8,9 @@ slug: index
 	<div class="row">
 		<h1>Passo a Passo</h1>
 
-		{% for image in site.images %}
-			<img src="{{ file.url }}" />
+		{% assign image_files = site.static_files | where: "image", true %}
+		{% for myimage in image_files %}
+		{{ myimage.path }}
 		{% endfor %}
 	</div>
 	<!-- /Blog Posts -->
