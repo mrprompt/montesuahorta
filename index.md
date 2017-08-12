@@ -10,7 +10,7 @@ slug: index
 
 		{% assign image_files = site.static_files | where: "image", true %}
 		{% for myimage in image_files %}
-		![Passo]({{ myimage.path }})
+		<img src="{{ myimage.path }}" alt="Passo a passo"/>
 		{% endfor %}
 	</div>
 	<!-- /Blog Posts -->
