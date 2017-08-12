@@ -1,0 +1,20 @@
+# Site settings
+title: Monte Sua Horta
+description: Monte sua horta
+url: http://www.montesuahorta.com.br
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+highlighter: rouge
+timezone: America/Sao_Paulo
+permalink: pretty
+
+# Plugins
+gems:
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+collections:
+  - images
