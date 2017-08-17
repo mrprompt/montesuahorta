@@ -18,6 +18,12 @@ sass:
 
 defaults:
   - scope:
-      path: "assets/img"
+      path: "assets/img/pet"
     values:
       image: true
+      pet: true
+  - scope:
+      path: "assets/img/vertical"
+    values:
+      image: true
+      vertical: true
