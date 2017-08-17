@@ -13,9 +13,6 @@ slug: index
 		<img src="{{ myimage.path }}" alt="Passo a passo" class="img-responsive thumbnail">
 		{% endfor %}
 	</div>
-	<!-- /Blog Posts -->
-
-	<!-- Blog Posts -->
 	<div class="row">
 		<h1>Passo a Passo - Vertical com Garrafas Pets</h1>
 
