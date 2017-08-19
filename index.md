@@ -27,3 +27,5 @@ slug: index
 		<a href="/composteira-pet/"><img src="/assets/img/composteira/020.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
 </div>
+
+{% include share.html %}
