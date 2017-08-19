@@ -1,6 +1,7 @@
 ---
 layout: default
 slug: vertical-floreira
+tags: floreira,vertical,horta-vertical
 ---
 # Vertical com Floreiras
 
