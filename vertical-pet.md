@@ -2,6 +2,7 @@
 layout: default
 slug: vertical-pet
 tags: garrafa,pets,vertical,reciclagem
+comments: true
 ---
 # Vertical com Garrafas Pets
 

@@ -2,6 +2,7 @@
 layout: default
 slug: composteira-pet
 tags: compostagem,composteira,garrafa,pet
+comments: true
 ---
 # Composteira com Garrafa Pet
 
