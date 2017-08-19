@@ -9,6 +9,8 @@ Montar uma composteira é uma ótima forma de aproveitar restos de alimentos que
 um ótimo adubo para sua horta. Além mais, com a utilização de minhocas, você consegue também um dos adubos mais eficientes que 
 existem, o húmus de minhoca.
 
+{% include share.html %}
+
 ### Material Necessário
 - Garrafa Pet (qualquer tamanho, desde que formem pares do mesmo tamanho)
 - Estilete
@@ -24,3 +26,5 @@ existem, o húmus de minhoca.
 {% for myimage in image_files %}
 <img src="{{ myimage.path }}" alt="Passo a passo" class="img-responsive thumbnail">
 {% endfor %}
+
+{% include share.html %}

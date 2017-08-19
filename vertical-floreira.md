@@ -5,6 +5,8 @@ tags: floreira,vertical,horta-vertical
 ---
 # Vertical com Floreiras
 
+{% include share.html %}
+
 ### Material Necessário
 - Floreiras (qualquer tamanho e quantidade)
 - Corda
@@ -23,3 +25,5 @@ tags: floreira,vertical,horta-vertical
 {% for myimage in image_files %}
 <img src="{{ myimage.path }}" alt="Passo a passo" class="img-responsive thumbnail">
 {% endfor %}
+
+{% include share.html %}
