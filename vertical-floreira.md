@@ -5,6 +5,13 @@ tags: floreira,vertical,horta-vertical
 ---
 # Vertical com Floreiras
 
+Uma disposição vertical das floreiras é ótimo para quem tem pouco espaço ou quer aproveitar aquela parede 
+da sacada que o máximo de enfeite que tem, é o gancho da rede - que nem é utilizada.
+
+Floreiras são baratas e fáceis de encontrar, algumas inclusive já possuem os furos para drenagem, caso 
+contrário, possuem o local devidamente marcado e com um material mais fácil de perfurar que o restante do
+produto.
+
 {% include share.html %}
 
 ### Material Necessário
