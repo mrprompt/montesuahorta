@@ -5,6 +5,10 @@ tags: compostagem,composteira,garrafa,pet
 ---
 # Composteira com Garrafa Pet
 
+Montar uma composteira é uma ótima forma de aproveitar restos de alimentos que geralmente iriam para o lixo, e transformá-los em 
+um ótimo adubo para sua horta. Além mais, com a utilização de minhocas, você consegue também um dos adubos mais eficientes que 
+existem, o húmus de minhoca.
+
 ### Material Necessário
 - Garrafa Pet (qualquer tamanho, desde que formem pares do mesmo tamanho)
 - Estilete
@@ -12,7 +16,7 @@ tags: compostagem,composteira,garrafa,pet
 - Britas
 - Terra
 - Minhocas (opcional)
-- Restos de legumes e verduras (exceto cozidos e carnes)
+- Restos de legumes e verduras (exceto cozidos e carnes`)
 	
 ### Passo a Passo
 
