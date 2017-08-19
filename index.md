@@ -22,4 +22,8 @@ slug: index
 		<h2><a href="/vertical-floreira/">Horta Vertical com Floreiras</a></h2>
 		<a href="/vertical-floreira/"><img src="/assets/img/vertical/016.jpg" alt="Vertical com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
+	<div class="col-md-6">
+		<h2><a href="/composteira-pet/">Composteira com Garrafas Pets</a></h2>
+		<a href="/composteira-pet/"><img src="/assets/img/composteira/020.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
+	</div>
 </div>
