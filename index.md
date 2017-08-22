@@ -26,6 +26,10 @@ slug: index
 		<h2><a href="/composteira-pet/">Composteira com Garrafas Pets</a></h2>
 		<a href="/composteira-pet/"><img src="/assets/img/composteira/020.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
+	<div class="col-md-4 col-sm-12">
+		<h2><a href="/composteira-pet/">Horta Vertical com Garrafas Pets de 5 litros</a></h2>
+		<a href="/composteira-pet/"><img src="/assets/img/pet-5lt/07.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
+	</div>
 </div>
 
 {% include share.html %}

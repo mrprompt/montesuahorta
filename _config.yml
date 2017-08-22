@@ -32,3 +32,8 @@ defaults:
     values:
       image: true
       composteira: true
+  - scope:
+      path: "assets/img/pet-5lt"
+    values:
+      image: true
+      pet5lt: true
