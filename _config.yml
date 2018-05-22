@@ -1,8 +1,8 @@
 # Site settings
 title: Monte Sua Horta
 description: Monte sua horta
-url: http://www.montesuahorta.com.br
-baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://www.mrprompt.com.br
+baseurl: "/montesuahorta/" # the subpath of your site, e.g. /blog/
 
 # Build settings
 highlighter: rouge
