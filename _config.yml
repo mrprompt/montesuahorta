@@ -1,6 +1,6 @@
 # Site settings
 title: Monte Sua Horta
-description: Monte sua horta
+description: Monte sua horta é um conjunto de passos para você escolher a melhor forma para montar sua própria horta, independente do espaço.
 url: https://www.mrprompt.com.br
 baseurl: "/montesuahorta/" # the subpath of your site, e.g. /blog/
 
