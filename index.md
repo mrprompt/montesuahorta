@@ -15,20 +15,20 @@ slug: index
 
 <div class="row">
 	<div class="col-md-4 col-sm-12">
-		<h2><a href="/vertical-pet/">Horta Vertical com Garrafas Pets</a></h2>
-		<a href="/vertical-pet/"><img src="/assets/img/pet/018.jpg" alt="Vertical com garrafas pets" class="img-responsive thumbnail"></a>
+		<h2><a href="{{ site.baseurl }}/vertical-pet/">Horta Vertical com Garrafas Pets</a></h2>
+		<a href="{{ site.baseurl }}/vertical-pet/"><img src="{{ site.baseurl }}/assets/img/pet/018.jpg" alt="Vertical com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
 	<div class="col-md-4 col-sm-12">
-		<h2><a href="/vertical-floreira/">Horta Vertical com Floreiras</a></h2>
-		<a href="/vertical-floreira/"><img src="/assets/img/vertical/016.jpg" alt="Vertical com garrafas pets" class="img-responsive thumbnail"></a>
+		<h2><a href="{{ site.baseurl }}/vertical-floreira/">Horta Vertical com Floreiras</a></h2>
+		<a href="{{ site.baseurl }}/vertical-floreira/"><img src="{{ site.baseurl }}/assets/img/vertical/016.jpg" alt="Vertical com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
 	<div class="col-md-4 col-sm-12">
-		<h2><a href="/composteira-pet/">Composteira com Garrafas Pets</a></h2>
-		<a href="/composteira-pet/"><img src="/assets/img/composteira/020.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
+		<h2><a href="{{ site.baseurl }}/composteira-pet/">Composteira com Garrafas Pets</a></h2>
+		<a href="{{ site.baseurl }}/composteira-pet/"><img src="{{ site.baseurl }}/assets/img/composteira/020.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
 	<div class="col-md-4 col-sm-12">
-		<h2><a href="/composteira-pet/">Horta Vertical com Garrafas Pets de 5 litros</a></h2>
-		<a href="/vertical-pet-5lt/"><img src="/assets/img/pet-5lt/07.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
+		<h2><a href="{{ site.baseurl }}/vertical-pet-5lt/">Horta Vertical com Garrafas Pets de 5 litros</a></h2>
+		<a href="{{ site.baseurl }}/vertical-pet-5lt/"><img src="{{ site.baseurl }}/assets/img/pet-5lt/07.jpg" alt="composteira com garrafas pets" class="img-responsive thumbnail"></a>
 	</div>
 </div>
 
