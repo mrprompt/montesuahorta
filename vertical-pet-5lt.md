@@ -24,7 +24,7 @@ do condomínio por exemplo.
 
 {% assign image_files = site.static_files | where: "image", true | where: "pet5lt", true  %}
 {% for myimage in image_files %}
-<img src="{{ myimage.path }}" alt="Passo a passo" class="img-responsive thumbnail">
+<img src="{{ site.baseurl }}/{{ myimage.path }}" alt="Passo a passo" class="img-responsive thumbnail">
 {% endfor %}
 
 {% include share.html %}
